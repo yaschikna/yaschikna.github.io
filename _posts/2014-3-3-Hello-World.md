@@ -4,6 +4,8 @@ title: Hello!!
 ---
 
 This is my hello world post!! Just testing github pull requests.
+This text must be visible on hg-pages branch only. ?
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
