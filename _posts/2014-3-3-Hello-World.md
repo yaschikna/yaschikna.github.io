@@ -4,6 +4,7 @@ title: Hello!!
 ---
 
 This is my hello world post!! Just testing github pull requests.
+This change is made on master branch.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
