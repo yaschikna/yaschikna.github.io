@@ -9,7 +9,7 @@
 #### Hey this is forth level
 
 
-![Chat](/images/chat.png "Chat")
+<img src="/images/chat.png" alt="Smiley face" border="5" align="center">
 
 ![ChatsList](/images/chatsList.png "ChatsList")
 
