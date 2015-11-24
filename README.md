@@ -10,6 +10,7 @@
 
 <img src="/images/chat.png" alt="Smiley face" style="border:5px solid black">
 
+
 ![ChatsList](/images/chatsList.png "ChatsList")
 
 **Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
