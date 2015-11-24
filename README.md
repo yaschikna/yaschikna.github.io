@@ -8,8 +8,7 @@
 
 #### Hey this is forth level
 
-
-<img src="/images/chat.png" alt="Smiley face" border="5" align="center">
+<img src="/images/chat.png" alt="Smiley face" style="border:5px solid black">
 
 ![ChatsList](/images/chatsList.png "ChatsList")
 
